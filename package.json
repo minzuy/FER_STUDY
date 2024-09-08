@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is git test example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minzuy/FER_STUDY.git"
+  },
+  "author": "minzuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minzuy/FER_STUDY/issues"
+  },
+  "homepage": "https://github.com/minzuy/FER_STUDY#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
